@@ -40,7 +40,18 @@ Link 2: https://www.youtube.com/watch?v=RTlituHdp7M&feature=youtu.be
 
 ### 6.2-) Instala o git no mininet e inicia o git
 
+```bash
+sudo apt-get install
+git init
+```
+
 <img src="https://user-images.githubusercontent.com/85804680/201452983-73d04030-6aa6-4e95-8a57-aeae9d1cd31d.png" width="400">
+
+### 6.3-) Clone o arquivo
+
+```bash
+git clone https://github.com/Matheusilva431/mininet
+```
 
 
 
