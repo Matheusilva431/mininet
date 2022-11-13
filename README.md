@@ -47,11 +47,15 @@ git init
 
 <img src="https://user-images.githubusercontent.com/85804680/201452983-73d04030-6aa6-4e95-8a57-aeae9d1cd31d.png" width="400">
 
-### 6.3-) Clone o arquivo
+### 6.3-) Cria o acesso remote e utiliza o git pull para pegar os arquivos
 
 ```bash
-git clone https://github.com/Matheusilva431/mininet
+git remote add origin https://github.com/Matheusilva431/mininet.git
+git pull origin main
 ```
+<img src="https://user-images.githubusercontent.com/85804680/201542439-6a5c12f7-b741-481e-b978-8515f8a10b27.png">
+
+
 
 
 
